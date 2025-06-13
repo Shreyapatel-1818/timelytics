@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # Constants
-MODEL_URL = "https://github.com/krishnaagambare/timelytics/releases/download/V1.0/voting_model.pkl"
+MODEL_URL = "https://github.com/Shreyapatel-1818/timelytics/releases/download/V1.0/voting_model.pkl"
 MODEL_PATH = "voting_model.pkl"
 CACHE_DIR = ".cache"
 
